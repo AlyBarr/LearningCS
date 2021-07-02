@@ -1,2 +1,2 @@
-# LearnPHP
-My Journey Learning PHP!
+# LearningCS
+My Journey Learning CS!
